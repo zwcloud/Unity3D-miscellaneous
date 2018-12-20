@@ -15,6 +15,7 @@ All kinds of useful things about Unity3D
 * [unity-mesh-outline](https://github.com/westmark/unity-mesh-outline) Unity Package for rendering outlines around meshes/objects
 * [Skinner](https://github.com/keijiro/Skinner) Skinner is a collection of special effects that use vertices of an animating skinned mesh as emitting points.
 * [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) Next-gen iteration of the unity community ocean shader
+* [Unity 2D Destruction](https://github.com/mjholtzem/Unity-2D-Destruction) Unity 2D Destruction is a basic tool for breaking 2D sprites into fragments for awesome destruction effects.
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
