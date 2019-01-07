@@ -28,5 +28,8 @@ All kinds of useful things about Unity3D
 * [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker using Unity UI
 * [SplineMesh](https://github.com/benoit-dumas/SplineMesh) a Unity plugin to create curved content in real-time with bézier curves
 
+# Editor Scripting
+* [EditorGUIExtension](http://wiki.unity3d.com/index.php/EditorGUIExtension) Some useful utility functions to create composite editor GUIs.
+
 # Misc
 * [DemiLib](https://github.com/Demigiant/demilib) Various utility libraries for Unity (alpha).
