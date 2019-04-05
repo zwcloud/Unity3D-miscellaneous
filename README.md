@@ -19,6 +19,7 @@ All kinds of useful things about Unity3D
 * [NPR_Lab](https://github.com/candycat1992/NPR_Lab) several [NPR(Non-photorealistic rendering)](https://en.wikipedia.org/wiki/Non-photorealistic_rendering) examples
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) Volumetric Lights for Unity 5
 * [UIEffect](https://github.com/mob-sakai/UIEffect) an effect component for uGUI element in Unity.
+* [Deform](https://github.com/keenanwoodall/Deform) A fully-featured deformer system for Unity.
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
