@@ -9,6 +9,7 @@ All kinds of useful things about Unity3D
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code.
 * [AssetStoreTools](https://github.com/zwcloud/AssetStoreTools) An improved version of the offical Unity3D asset store tools.
 * [unity-shell](https://github.com/marijnz/unity-shell) Write and execute code in an intuitive "shell" with autocompletion, for the Unity Editor.
+* [unity-texture-packer](https://github.com/andydbc/unity-texture-packer) Utility to merge different texture channels into a final texture output.
 
 # Effects
 * [UnitySpriteShaders](https://github.com/traggett/UnitySpriteShaders) An Uber Shader for Unity specialised in rendering Alpha Blended objects like sprites.
