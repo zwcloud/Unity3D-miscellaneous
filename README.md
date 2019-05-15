@@ -21,6 +21,8 @@ All kinds of useful things about Unity3D
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) Volumetric Lights for Unity 5
 * [UIEffect](https://github.com/mob-sakai/UIEffect) an effect component for uGUI element in Unity.
 * [Deform](https://github.com/keenanwoodall/Deform) A fully-featured deformer system for Unity.
+* [Unity-Chan Toon Shader](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) a toon shader for video and images that is designed to meet your needs when creating cel-shaded 3DCG animations.
+* [UnityGrassGeometryShader](https://github.com/IronWarrior/UnityGrassGeometryShader) Generates blades with a geometry shader, tessellates input mesh to control density.
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
