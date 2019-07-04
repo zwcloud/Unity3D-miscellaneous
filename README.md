@@ -33,6 +33,7 @@ All kinds of useful things about Unity3D
 * [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker using Unity UI
 * [SplineMesh](https://github.com/benoit-dumas/SplineMesh) a Unity plugin to create curved content in real-time with bézier curves
 * [UnityRuntimeSceneGizmo](https://github.com/yasirkula/UnityRuntimeSceneGizmo) Interactable runtime scene gizmo for uGUI 
+* [UnitySpline2D](https://github.com/sinbad/UnitySpline2D) a free 2D simple spline library for Unity
 
 # Editor Scripting
 * [EditorGUIExtension](http://wiki.unity3d.com/index.php/EditorGUIExtension) Some useful utility functions to create composite editor GUIs.
