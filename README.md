@@ -25,6 +25,7 @@ All kinds of useful things about Unity3D
 * [Unity-Chan Toon Shader](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) a toon shader for video and images that is designed to meet your needs when creating cel-shaded 3DCG animations.
 * [UnityGrassGeometryShader](https://github.com/IronWarrior/UnityGrassGeometryShader) Generates blades with a geometry shader, tessellates input mesh to control density.
 * [MiniEngineAO](https://github.com/keijiro/MiniEngineAO) SSAO image effect from Microsoft MiniEngine, ported to Unity.
+* [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) A Delaunay/Voronoi library for Unity, and a simple destruction effect
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
