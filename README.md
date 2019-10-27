@@ -37,6 +37,7 @@ All kinds of useful things about Unity3D
 * [SplineMesh](https://github.com/benoit-dumas/SplineMesh) a Unity plugin to create curved content in real-time with bézier curves
 * [UnityRuntimeSceneGizmo](https://github.com/yasirkula/UnityRuntimeSceneGizmo) Interactable runtime scene gizmo for uGUI 
 * [UnitySpline2D](https://github.com/sinbad/UnitySpline2D) a free 2D simple spline library for Unity
+* [UnityExtensions](https://github.com/yuyang9119/UnityExtensions) Unity 通用扩展，包括编辑器、运行时的即用扩展、API 扩展。目前含有 Tween（插值动画）、Path（样条路径）、FSM（状态机）、Save（存档）、Localization（本地化）等主要系统。
 
 # Editor Scripting
 * [EditorGUIExtension](http://wiki.unity3d.com/index.php/EditorGUIExtension) Some useful utility functions to create composite editor GUIs.
