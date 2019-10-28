@@ -26,6 +26,7 @@ All kinds of useful things about Unity3D
 * [UnityGrassGeometryShader](https://github.com/IronWarrior/UnityGrassGeometryShader) Generates blades with a geometry shader, tessellates input mesh to control density.
 * [MiniEngineAO](https://github.com/keijiro/MiniEngineAO) SSAO image effect from Microsoft MiniEngine, ported to Unity.
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) A Delaunay/Voronoi library for Unity, and a simple destruction effect
+* [KinoContour](https://github.com/keijiro/KinoContour) Contour line filter for Unity
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
