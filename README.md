@@ -39,6 +39,7 @@ All kinds of useful things about Unity3D
 * [UnityRuntimeSceneGizmo](https://github.com/yasirkula/UnityRuntimeSceneGizmo) Interactable runtime scene gizmo for uGUI 
 * [UnitySpline2D](https://github.com/sinbad/UnitySpline2D) a free 2D simple spline library for Unity
 * [UnityExtensions](https://github.com/yuyang9119/UnityExtensions) Unity 通用扩展，包括编辑器、运行时的即用扩展、API 扩展。目前含有 Tween（插值动画）、Path（样条路径）、FSM（状态机）、Save（存档）、Localization（本地化）等主要系统。
+* [UnityGameplayAbilitySystem](https://github.com/sjai013/UnityGameplayAbilitySystem) A Unity framework for creating games which contain any kind of abilities (e.g. DotA, Skyrim) that helps to simplify the interaction between components in a unified manner.
 
 # Editor Scripting
 * [EditorGUIExtension](http://wiki.unity3d.com/index.php/EditorGUIExtension) Some useful utility functions to create composite editor GUIs.
