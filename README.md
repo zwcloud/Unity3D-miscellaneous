@@ -27,7 +27,8 @@ All kinds of useful things about Unity3D
 * [MiniEngineAO](https://github.com/keijiro/MiniEngineAO) SSAO image effect from Microsoft MiniEngine, ported to Unity.
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) A Delaunay/Voronoi library for Unity, and a simple destruction effect
 * [KinoContour](https://github.com/keijiro/KinoContour) Contour line filter for Unity
-* [Brunetons-Improved-Atmospheric-Scattering](https://github.com/greje656/Brunetons-Improved-Atmospheric-Scattering) atmospheric scattering 
+* [Brunetons-Improved-Atmospheric-Scattering](https://github.com/greje656/Brunetons-Improved-Atmospheric-Scattering) atmospheric scattering
+* [UnityBezierSolution](https://github.com/yasirkula/UnityBezierSolution) A bezier spline solution for Unity 3D with some utility functions.
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
