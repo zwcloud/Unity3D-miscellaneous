@@ -29,6 +29,7 @@ All kinds of useful things about Unity3D
 * [KinoContour](https://github.com/keijiro/KinoContour) Contour line filter for Unity
 * [Brunetons-Improved-Atmospheric-Scattering](https://github.com/greje656/Brunetons-Improved-Atmospheric-Scattering) atmospheric scattering
 * [UnityBezierSolution](https://github.com/yasirkula/UnityBezierSolution) A bezier spline solution for Unity 3D with some utility functions.
+* [Unity3DCrossSectionShader](https://github.com/Dandarawy/Unity3DCrossSectionShader) CG shader for unity3D to create a cross section through meshes
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
