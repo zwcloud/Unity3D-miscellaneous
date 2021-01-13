@@ -32,6 +32,7 @@ All kinds of useful things about Unity3D
 * [UnityBezierSolution](https://github.com/yasirkula/UnityBezierSolution) A bezier spline solution for Unity 3D with some utility functions.
 * [Unity3DCrossSectionShader](https://github.com/Dandarawy/Unity3DCrossSectionShader) CG shader for unity3D to create a cross section through meshes
 * [FluvioFX](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph
+* [crest-ocean/crest](https://github.com/crest-ocean/crest) an advanced ocean system
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
