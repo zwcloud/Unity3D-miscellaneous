@@ -50,6 +50,7 @@ All kinds of useful things about Unity3D
 
 # Editor Scripting
 * [EditorGUIExtension](http://wiki.unity3d.com/index.php/EditorGUIExtension) Some useful utility functions to create composite editor GUIs.
+* [UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick) Provides some common tips and examples for developing the UnityEditor toolchain.
 
 # Misc
 * [DemiLib](https://github.com/Demigiant/demilib) Various utility libraries for Unity (alpha).
