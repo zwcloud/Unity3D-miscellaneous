@@ -13,7 +13,7 @@ All kinds of useful things about Unity3D
 * [UnityCustomizableToolbar](https://github.com/baba-s/unity-customizable-toolbar) Customizable toolbar available in the Unity editor.
 * [Unity-Reorderable-List](https://github.com/cfoulston/Unity-Reorderable-List) An attempt to mimic the ReorderableList within Unity while adding some extended functionality.
 * [Mesh Debugging](https://github.com/nementic-games/mesh-debugging) A suite of utilities useful for finding issues or simply visualizing properties such as UVs or normals of a mesh.
-* [https://github.com/truongnguyentungduy/hierarchy-2](Hierarchy 2) Editor extension to improve Unity hierarchy window. Makes the hierarchy more detail, but still clean and easy to organize.
+* [Hierarchy 2](https://github.com/truongnguyentungduy/hierarchy-2) Editor extension to improve Unity hierarchy window. Makes the hierarchy more detail, but still clean and easy to organize.
 
 # Effects
 * [UnitySpriteShaders](https://github.com/traggett/UnitySpriteShaders) An Uber Shader for Unity specialised in rendering Alpha Blended objects like sprites.
