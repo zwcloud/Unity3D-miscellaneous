@@ -4,6 +4,7 @@ All kinds of useful things about Unity3D
 # Tools
 * [MeshDebugger](https://github.com/willnode/MeshDebugger) MeshDebugger is an editor tool to visually inspect a mesh. Very helpful if you want to debug your procedurally generated mesh or inspecting ideal parts of your model.
 * [FreePrefabPainter](https://github.com/AlexanderAmeye/FreePrefabPainter) A free, basic prefab painter for Unity3D.
+* [ReferenceFinder](https://github.com/blueberryzzz/ReferenceFinder) A plugin used to find references of a resouce, displayed in treeview.
 
 # Editor Extension
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code.
