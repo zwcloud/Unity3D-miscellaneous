@@ -37,6 +37,8 @@ All kinds of useful things about Unity3D
 * [FluvioFX](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph
 * [crest-ocean/crest](https://github.com/crest-ocean/crest) an advanced ocean system
 * [lilxyzw/lilFurGenerator](https://github.com/lilxyzw/lilFurGenerator) Fur mesh generator for Unity.
+* [Zibra Liquids](https://github.com/ZibraAI/com.zibra.liquids-free) a real-time and cross-platform physically correct fluid simulation plugin
+* [Vector Shapes for Unity](https://github.com/anyuser/vectorshapes-unity) Library for drawing vector shapes in Unity.
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
