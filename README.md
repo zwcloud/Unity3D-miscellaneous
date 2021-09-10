@@ -64,5 +64,9 @@ All kinds of useful things about Unity3D
 * [vis2k/Mirror](https://github.com/vis2k/Mirror) a high level Networking library
 * [egametang/ET](https://github.com/egametang/ET) a client and C# server framework
 
+# Gameplay
+
+* [IronWarrior/ProjectileShooting](https://github.com/IronWarrior/ProjectileShooting) Project demonstrating in Unity how to fire a projectile at a target by either specifying its initial velocity or initial angle.
+
 # Misc
 * [DemiLib](https://github.com/Demigiant/demilib) Various utility libraries for Unity (alpha).
