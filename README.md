@@ -39,6 +39,7 @@ All kinds of useful things about Unity3D
 * [lilxyzw/lilFurGenerator](https://github.com/lilxyzw/lilFurGenerator) Fur mesh generator for Unity.
 * [Zibra Liquids](https://github.com/ZibraAI/com.zibra.liquids-free) a real-time and cross-platform physically correct fluid simulation plugin
 * [Vector Shapes for Unity](https://github.com/anyuser/vectorshapes-unity) Library for drawing vector shapes in Unity.
+* [Unity Procedural Rock Generation](https://github.com/przemyslawzaworski/Unity-Procedural-Rock-Generation)
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
@@ -65,7 +66,6 @@ All kinds of useful things about Unity3D
 * [egametang/ET](https://github.com/egametang/ET) a client and C# server framework
 
 # Gameplay
-
 * [IronWarrior/ProjectileShooting](https://github.com/IronWarrior/ProjectileShooting) Project demonstrating in Unity how to fire a projectile at a target by either specifying its initial velocity or initial angle.
 
 # Misc
