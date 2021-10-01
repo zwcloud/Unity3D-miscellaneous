@@ -55,6 +55,7 @@ All kinds of useful things about Unity3D
 * [UnityExtensions](https://github.com/Avatarchik/UnityExtensions) Unity 通用扩展，包括编辑器、运行时的即用扩展、API 扩展。目前含有 Tween（插值动画）、Path（样条路径）、FSM（状态机）、Save（存档）、Localization（本地化）等主要系统。
 * [UnityGameplayAbilitySystem](https://github.com/sjai013/UnityGameplayAbilitySystem) A Unity framework for creating games which contain any kind of abilities (e.g. DotA, Skyrim) that helps to simplify the interaction between components in a unified manner.
 * [TinyTween](https://gist.github.com/zwcloud/89c227a99151dd992c34da04d3d1ee07) a single file tween library
+* [Unity-ShaderCharDisplay](https://github.com/frankhjwx/Unity-ShaderCharDisplay) Convenient shader tool for displaying ascii characters as debug text in your shaders
 
 # Editor Scripting
 * [EditorGUIExtension](http://wiki.unity3d.com/index.php/EditorGUIExtension) Some useful utility functions to create composite editor GUIs.
