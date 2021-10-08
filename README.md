@@ -41,6 +41,7 @@ All kinds of useful things about Unity3D
 * [Vector Shapes for Unity](https://github.com/anyuser/vectorshapes-unity) Library for drawing vector shapes in Unity.
 * [Unity Procedural Rock Generation](https://github.com/przemyslawzaworski/Unity-Procedural-Rock-Generation)
 * [unity-dithered-transparency-shader](https://github.com/gkjohnson/unity-dithered-transparency-shader) Unity material and shader for applying clipped, dithered transparency
+* [UnlitClouds](https://github.com/AlexStrook/UnlitClouds) A unity cloud shader, using vertex colors and tessellation for a simple stylized look.
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
