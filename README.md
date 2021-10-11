@@ -64,6 +64,7 @@ All kinds of useful things about Unity3D
 * [UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick) Provides some common tips and examples for developing the UnityEditor toolchain.
 * [xNode](https://github.com/Siccity/xNode) A Unity node editor that lets you view and edit node graphs or develope a node-based plugin.
 * [Unity Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) Tools, custom attributes, drawers, hierarchy overlay, and other extensions for the Unity Editor.
+* [UnityGUIChartEditor](https://github.com/alessandroTironi/UnityGUIChartEditor) A Unity Editor utility that allows to draw custom charts inside the Inspector. 
 
 # Network
 * [Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) a free and open source multiplayer game (multi-user) networking system
