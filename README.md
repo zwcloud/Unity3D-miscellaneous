@@ -76,5 +76,8 @@ All kinds of useful things about Unity3D
 # Gameplay
 * [IronWarrior/ProjectileShooting](https://github.com/IronWarrior/ProjectileShooting) Project demonstrating in Unity how to fire a projectile at a target by either specifying its initial velocity or initial angle.
 
+# Gameplay - UI
+* [Power Grid Inventory](https://github.com/Slugronaut/PGI) an intuitive grid-based inventory system like in Diablo II. See https://forum.unity.com/threads/released-power-grid-inventory-diablo-ii-style-inventory.328206/
+
 # Misc
 * [DemiLib](https://github.com/Demigiant/demilib) Various utility libraries for Unity (alpha).
