@@ -45,6 +45,7 @@ All kinds of useful things about Unity3D
 * [UnlitClouds](https://github.com/AlexStrook/UnlitClouds) A unity cloud shader, using vertex colors and tessellation for a simple stylized look.
 * [Extended UI Outline](https://www.cnblogs.com/GuyaWeiren/p/9665106.html) UI outline effect based on custom shader and BaseMeshEffect
 * [MathUtilities](https://github.com/zalo/MathUtilities) a collection of some of the neat math and physics tricks
+* [OpenFracture](https://github.com/dgreenheck/OpenFracture) a package for fracturing & slicing meshes
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
