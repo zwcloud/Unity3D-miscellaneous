@@ -6,6 +6,7 @@ All kinds of useful things about Unity3D
 * [FreePrefabPainter](https://github.com/AlexanderAmeye/FreePrefabPainter) A free, basic prefab painter for Unity3D.
 * [ReferenceFinder](https://github.com/blueberryzzz/ReferenceFinder) A plugin used to find references of a resouce, displayed in treeview.
 * [Mixture](https://github.com/alelievr/Mixture) Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime.
+* [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) A Memory Profiler, Debugger and Analyzer for Unity
 
 # Editor Extension
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code.
