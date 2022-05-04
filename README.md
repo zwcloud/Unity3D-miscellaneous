@@ -62,6 +62,7 @@ All kinds of useful things about Unity3D
 * [UnityGameplayAbilitySystem](https://github.com/sjai013/UnityGameplayAbilitySystem) A Unity framework for creating games which contain any kind of abilities (e.g. DotA, Skyrim) that helps to simplify the interaction between components in a unified manner.
 * [TinyTween](https://gist.github.com/zwcloud/89c227a99151dd992c34da04d3d1ee07) a single file tween library
 * [Unity-ShaderCharDisplay](https://github.com/frankhjwx/Unity-ShaderCharDisplay) Convenient shader tool for displaying ascii characters as debug text in your shaders
+* [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) Tracks and Clips for controlling the Unity UI (uGUI) with Timeline.
 
 # Editor Scripting
 * [EditorGUIExtension](http://wiki.unity3d.com/index.php/EditorGUIExtension) Some useful utility functions to create composite editor GUIs.
