@@ -63,7 +63,8 @@ All kinds of useful things about Unity3D
 * [TinyTween](https://gist.github.com/zwcloud/89c227a99151dd992c34da04d3d1ee07) a single file tween library
 * [Unity-ShaderCharDisplay](https://github.com/frankhjwx/Unity-ShaderCharDisplay) Convenient shader tool for displaying ascii characters as debug text in your shaders
 * [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) Tracks and Clips for controlling the Unity UI (uGUI) with Timeline.
-* [Computational-geometry](https://github.com/Habrador/Computational-geometry) Computational Geometry Unity library with implementations of intersection algorithms, triangulations like delaunay, voronoi diagrams, polygon clipping, bezier curves, ear clipping, convex hulls, mesh simplification, etc 
+* [Computational-geometry](https://github.com/Habrador/Computational-geometry) Computational Geometry Unity library with implementations of intersection algorithms, triangulations like delaunay, voronoi diagrams, polygon clipping, bezier curves, ear clipping, convex hulls, mesh simplification, etc
+* [Vertx.Debugging](https://github.com/vertxxyz/Vertx.Debugging) Visual Debugging Utilities for Unity
 
 # Editor Scripting
 * [EditorGUIExtension](http://wiki.unity3d.com/index.php/EditorGUIExtension) Some useful utility functions to create composite editor GUIs.
