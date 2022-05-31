@@ -71,6 +71,7 @@ All kinds of useful things about Unity3D
 * [UnityGUIChartEditor](https://github.com/alessandroTironi/UnityGUIChartEditor) A Unity Editor utility that allows to draw custom charts inside the Inspector. 
 * [unity-editor-coroutines](https://github.com/marijnz/unity-editor-coroutines) Coroutines for Editor scripts, just like regular coroutines.
 * [UnityExtensions](https://github.com/Avatarchik/UnityExtensions) Unity 通用扩展，包括编辑器、运行时的即用扩展、API 扩展。目前含有 Tween（插值动画）、Path（样条路径）、FSM（状态机）、Save（存档）、Localization（本地化）等主要系统。
+* [UnityEditorIcons](https://github.com/nukadelic/UnityEditorIcons) Built-in unity editor icons browser: search, view and save an icon to png file.
 
 # Network
 * [Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) a free and open source multiplayer game (multi-user) networking system
