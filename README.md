@@ -77,6 +77,7 @@ All kinds of useful things about Unity3D
 * [Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) a free and open source multiplayer game (multi-user) networking system
 * [vis2k/Mirror](https://github.com/vis2k/Mirror) a high level Networking library
 * [egametang/ET](https://github.com/egametang/ET) a client and C# server framework
+* [Photon Fusion](https://www.photonengine.com/Fusion) a state synchronization networking library for Unity.
 
 # Gameplay
 * [IronWarrior/ProjectileShooting](https://github.com/IronWarrior/ProjectileShooting) Project demonstrating in Unity how to fire a projectile at a target by either specifying its initial velocity or initial angle.
