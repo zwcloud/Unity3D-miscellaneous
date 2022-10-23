@@ -64,6 +64,7 @@ All kinds of useful things about Unity3D
 * [Computational-geometry](https://github.com/Habrador/Computational-geometry) Computational Geometry Unity library with implementations of intersection algorithms, triangulations like delaunay, voronoi diagrams, polygon clipping, bezier curves, ear clipping, convex hulls, mesh simplification, etc
 * [Vertx.Debugging](https://github.com/vertxxyz/Vertx.Debugging) Visual Debugging Utilities for Unity
 * [UnityWindowsFileDragDrop](https://github.com/OlafZwe/UnityWindowsFileDragDrop) Single class file drag and drop support for Unity on Windows
+* [UniWindowController](https://github.com/kirurobo/uniwindowcontroller) Makes your Unity window transparent and allows files dropping
 
 # Editor Scripting
 * [EditorGUIExtension](http://wiki.unity3d.com/index.php/EditorGUIExtension) Some useful utility functions to create composite editor GUIs.
