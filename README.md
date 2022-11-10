@@ -48,6 +48,7 @@ All kinds of useful things about Unity3D
 * [Extended UI Outline](https://www.cnblogs.com/GuyaWeiren/p/9665106.html) UI outline effect based on custom shader and BaseMeshEffect
 * [MathUtilities](https://github.com/zalo/MathUtilities) a collection of some of the neat math and physics tricks
 * [OpenFracture](https://github.com/dgreenheck/OpenFracture) a package for fracturing & slicing meshes
+* [https://github.com/hasantarhan/LeafPhysics](LeafPhysics) Unity Custom Leaf Physics
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
