@@ -8,6 +8,10 @@ All kinds of useful things about Unity3D
 * [Mixture](https://github.com/alelievr/Mixture) Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime.
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) A Memory Profiler, Debugger and Analyzer for Unity
 * [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) An in-game UI for exploring, debugging and modifying Unity games.
+* [Mesh Debugging](https://github.com/nementic-games/mesh-debugging) A suite of utilities useful for finding issues or simply visualizing properties such as UVs or normals of a mesh.
+* [Unity-ShaderCharDisplay](https://github.com/frankhjwx/Unity-ShaderCharDisplay) Convenient shader tool for displaying ascii characters as debug text in your shaders
+* [Vertx.Debugging](https://github.com/vertxxyz/Vertx.Debugging) Visual Debugging Utilities for Unity
+* [JohnBaracuda/com.baracuda.runtime-monitoring](https://github.com/JohnBaracuda/com.baracuda.runtime-monitoring) an easy way for you to monitor the value or state of custom C# members during runtime.
 
 # Editor Extension
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code.
@@ -16,7 +20,6 @@ All kinds of useful things about Unity3D
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer) Utility to merge different texture channels into a final texture output.
 * [UnityCustomizableToolbar](https://github.com/baba-s/unity-customizable-toolbar) Customizable toolbar available in the Unity editor.
 * [Unity-Reorderable-List](https://github.com/cfoulston/Unity-Reorderable-List) An attempt to mimic the ReorderableList within Unity while adding some extended functionality.
-* [Mesh Debugging](https://github.com/nementic-games/mesh-debugging) A suite of utilities useful for finding issues or simply visualizing properties such as UVs or normals of a mesh.
 * [Hierarchy 2](https://github.com/truongnguyentungduy/hierarchy-2) Editor extension to improve Unity hierarchy window. Makes the hierarchy more detail, but still clean and easy to organize.
 
 # Effects
@@ -61,9 +64,7 @@ All kinds of useful things about Unity3D
 * [UnitySpline2D](https://github.com/sinbad/UnitySpline2D) a free 2D simple spline library for Unity
 * [UnityGameplayAbilitySystem](https://github.com/sjai013/UnityGameplayAbilitySystem) A Unity framework for creating games which contain any kind of abilities (e.g. DotA, Skyrim) that helps to simplify the interaction between components in a unified manner.
 * [TinyTween](https://gist.github.com/zwcloud/89c227a99151dd992c34da04d3d1ee07) a single file tween library
-* [Unity-ShaderCharDisplay](https://github.com/frankhjwx/Unity-ShaderCharDisplay) Convenient shader tool for displaying ascii characters as debug text in your shaders
 * [Computational-geometry](https://github.com/Habrador/Computational-geometry) Computational Geometry Unity library with implementations of intersection algorithms, triangulations like delaunay, voronoi diagrams, polygon clipping, bezier curves, ear clipping, convex hulls, mesh simplification, etc
-* [Vertx.Debugging](https://github.com/vertxxyz/Vertx.Debugging) Visual Debugging Utilities for Unity
 * [UnityWindowsFileDragDrop](https://github.com/OlafZwe/UnityWindowsFileDragDrop) Single class file drag and drop support for Unity on Windows
 * [UniWindowController](https://github.com/kirurobo/uniwindowcontroller) Makes your Unity window transparent and allows files dropping
 
