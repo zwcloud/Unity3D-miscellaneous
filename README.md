@@ -90,6 +90,7 @@ All kinds of useful things about Unity3D
 # Gameplay - UI
 * [Power Grid Inventory](https://github.com/Slugronaut/PGI) an intuitive grid-based inventory system like in Diablo II. See https://forum.unity.com/threads/released-power-grid-inventory-diablo-ii-style-inventory.328206/
 * [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) Tracks and Clips for controlling the Unity UI (uGUI) with Timeline.
+* [uPalette](https://github.com/Haruma-K/uPalette) a UI color theming solution, Centralized management & batch change system of colors for Unity
 
 # Physics
 * [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
