@@ -11,7 +11,7 @@ All kinds of useful things about Unity3D
 * [Mesh Debugging](https://github.com/nementic-games/mesh-debugging) A suite of utilities useful for finding issues or simply visualizing properties such as UVs or normals of a mesh.
 * [Unity-ShaderCharDisplay](https://github.com/frankhjwx/Unity-ShaderCharDisplay) Convenient shader tool for displaying ascii characters as debug text in your shaders
 * [Vertx.Debugging](https://github.com/vertxxyz/Vertx.Debugging) Visual Debugging Utilities for Unity
-* [JohnBaracuda/com.baracuda.runtime-monitoring](https://github.com/JohnBaracuda/com.baracuda.runtime-monitoring) an easy way for you to monitor the value or state of custom C# members during runtime.
+* [com.baracuda.runtime-monitoring](https://github.com/JohnBaracuda/com.baracuda.runtime-monitoring) an easy way for you to monitor the value or state of custom C# members during runtime.
 
 # Editor Extension
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code.
@@ -42,7 +42,7 @@ All kinds of useful things about Unity3D
 * [Unity3DCrossSectionShader](https://github.com/Dandarawy/Unity3DCrossSectionShader) CG shader for unity3D to create a cross section through meshes
 * [FluvioFX](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph
 * [crest-ocean/crest](https://github.com/crest-ocean/crest) an advanced ocean system
-* [lilxyzw/lilFurGenerator](https://github.com/lilxyzw/lilFurGenerator) Fur mesh generator for Unity.
+* [lilFurGenerator](https://github.com/lilxyzw/lilFurGenerator) Fur mesh generator for Unity.
 * [Zibra Liquids](https://github.com/ZibraAI/com.zibra.liquids-free) a real-time and cross-platform physically correct fluid simulation plugin
 * [Vector Shapes for Unity](https://github.com/anyuser/vectorshapes-unity) Library for drawing vector shapes in Unity.
 * [Unity Procedural Rock Generation](https://github.com/przemyslawzaworski/Unity-Procedural-Rock-Generation)
@@ -51,7 +51,8 @@ All kinds of useful things about Unity3D
 * [Extended UI Outline](https://www.cnblogs.com/GuyaWeiren/p/9665106.html) UI outline effect based on custom shader and BaseMeshEffect
 * [MathUtilities](https://github.com/zalo/MathUtilities) a collection of some of the neat math and physics tricks
 * [OpenFracture](https://github.com/dgreenheck/OpenFracture) a package for fracturing & slicing meshes
-* [https://github.com/hasantarhan/LeafPhysics](LeafPhysics) Unity Custom Leaf Physics
+* [LeafPhysics](https://github.com/hasantarhan/LeafPhysics) Unity Custom Leaf Physics
+* [WaterRW](https://github.com/ruccho/WaterRW) 2D interactive water system for Unity.
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
