@@ -53,6 +53,7 @@ All kinds of useful things about Unity3D
 * [OpenFracture](https://github.com/dgreenheck/OpenFracture) a package for fracturing & slicing meshes
 * [LeafPhysics](https://github.com/hasantarhan/LeafPhysics) Unity Custom Leaf Physics
 * [WaterRW](https://github.com/ruccho/WaterRW) 2D interactive water system for Unity.
+* [Outline Effect](https://github.com/cakeslice/Outline-Effect) Outline Image Effect for Unity
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
