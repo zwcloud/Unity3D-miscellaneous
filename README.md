@@ -54,6 +54,7 @@ All kinds of useful things about Unity3D
 * [LeafPhysics](https://github.com/hasantarhan/LeafPhysics) Unity Custom Leaf Physics
 * [WaterRW](https://github.com/ruccho/WaterRW) 2D interactive water system for Unity.
 * [Outline Effect](https://github.com/cakeslice/Outline-Effect) Outline Image Effect for Unity
+* [UIOutline](https://github.com/PandaArcade/UIOutline) add outlines to Unity UI
 
 # Scripting
 * [UniRx](https://github.com/neuecc/UniRx) UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions.
