@@ -100,3 +100,4 @@ All kinds of useful things about Unity3D
 
 # Misc
 * [DemiLib](https://github.com/Demigiant/demilib) Various utility libraries for Unity (alpha).
+* [Mathfs](https://github.com/FreyaHolmer/Mathfs) Expanded Math Functionality for Unity
